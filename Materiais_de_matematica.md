@@ -4,6 +4,8 @@
 
 ## <u>MA14 - Aritmética</u>: https://www.youtube.com/playlist?list=PLxEB_CPQhRLvNAHf15s0E--iKCeRADrgj
 
+## <u>(Aritmética) MA 14 Mestrado Profmat</u>: https://www.youtube.com/playlist?list=PLJRNmvuHbdqRInZxDDYEapii5GvwQrbvS
+
 ## <u>Aritmética (Programa de Iniciação Cientifica da OBMEP)</u>: https://www.youtube.com/playlist?list=PLrVGp617x0hC8WkPHtM3IjoOiiyJs-hHh
 
 ## <u>Indução Matemática</u>: https://www.youtube.com/playlist?list=PLrVGp617x0hAb3bokPETMb7ymiVW_FtuM
