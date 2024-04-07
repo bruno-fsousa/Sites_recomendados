@@ -1,12 +1,4 @@
-# <div style="text-align: center;"> Canais de Matemática do Youtube que eu recomendo </div>
-
-## <u>Prof. Jonas</u>: https://www.youtube.com/@OProfJonas
-
-## <u>Polos Olímpicos de Treinamento Intensivo</u>: https://www.youtube.com/@PolosOlimpicos
-
-## <u>Instituto de Matemática Pura e Aplicada</u>: https://www.youtube.com/@impabr
-
-## <u>Professor Possani</u>: https://www.youtube.com/@cpossani
+<div style="text-align: center; color: blue;">Materiais de matemática e computação</div>
 
 ## <u>MA14 - Aritmética do PROFMAT</u>: https://www.youtube.com/playlist?list=PLJwPd4oBiBr9HZMDHdUH61l4Ut1e9mCtD
 
@@ -17,4 +9,3 @@
 ## <u>Matemática Discreta - UFC - Recorrências (aula 01)</u>: https://youtu.be/jZKKwg-lJX4?list=PL6mfjjCaO1WrEJ0JKRyXO3QjaPkJaSvAS
 
 ## <u>Aula Extra - Dividir para Conquistar (Recursividade)</u>: https://www.youtube.com/playlist?list=PLrOyM49ctTx-HWypJVvn_zMO1o7oOAfVx
-
