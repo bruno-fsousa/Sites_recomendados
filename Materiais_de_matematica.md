@@ -8,6 +8,10 @@
 
 ## <u>Indução Matemática</u>: https://www.youtube.com/playlist?list=PLrVGp617x0hAb3bokPETMb7ymiVW_FtuM
 
+## <u>Matemática universitária</u>: https://www.youtube.com/playlist?list=PL8w5eaKaOhJRCW-Hytq0JdzTuPD_vyCcL
+
+## <u>INDUÇÃO MATEMÁTICA - Sequência de Fibonacci - (Propriedade interessante)</u>: https://www.youtube.com/watch?v=XbgR0S_ehKw&list=PL8w5eaKaOhJRR364gEZdQUI930Z41aEQY&index=1
+
 ## <u>Programa de Mestrado: Introdução à Teoria dos Números</u>: https://www.youtube.com/playlist?list=PLo4jXE-LdDTRYa1NwZEA5UkhQ0mz19frQ
 
 ## <u>Recorrências</u>: https://portaldaobmep.impa.br/index.php/modulo/ver?modulo=82
