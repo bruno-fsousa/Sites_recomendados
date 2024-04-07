@@ -2,6 +2,10 @@
 
 ## <u>MA14 - Aritmética do PROFMAT</u>: https://www.youtube.com/playlist?list=PLJwPd4oBiBr9HZMDHdUH61l4Ut1e9mCtD
 
+## <u>MA14 - Aritmética do PROFMAT</u>: https://profmat-sbm.org.br/ma-14/
+
+## <u>Vídeoaulas do PROFMAT</u>: https://profmat-sbm.org.br/videoaulas-do-profmat/
+
 ## <u>MA14 - Aritmética</u>: https://www.youtube.com/playlist?list=PLxEB_CPQhRLvNAHf15s0E--iKCeRADrgj
 
 ## <u>(Aritmética) MA 14 Mestrado Profmat</u>: https://www.youtube.com/playlist?list=PLJRNmvuHbdqRInZxDDYEapii5GvwQrbvS
