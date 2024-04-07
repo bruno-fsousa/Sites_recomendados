@@ -1,1 +1,1 @@
-# Canais recomendados de matemática no youtube
+## Materiais de matemática, computação e áreas afins
