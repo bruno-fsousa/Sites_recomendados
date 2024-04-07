@@ -1,4 +1,4 @@
-<div style="text-align: center; color: blue;">Materiais de matemática e computação</div>
+<div style="text-align: center; color: blue;"> Materiais de matemática e computação </div>
 
 ## <u>MA14 - Aritmética do PROFMAT</u>: https://www.youtube.com/playlist?list=PLJwPd4oBiBr9HZMDHdUH61l4Ut1e9mCtD
 
