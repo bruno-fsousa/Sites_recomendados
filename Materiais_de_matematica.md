@@ -29,3 +29,15 @@
 ## <u>Aula Extra - Dividir para Conquistar (Recursividade)</u>: https://www.youtube.com/playlist?list=PLrOyM49ctTx-HWypJVvn_zMO1o7oOAfVx
 
 ## <u>16/03/2022) - Mestrado: Álgebra I - Eduardo Esteves - Aula 01</u>: https://www.youtube.com/playlist?list=PLo4jXE-LdDTQZkLuqXx5ey9-VD-BTGbdS
+
+<!-- Novo título de seção -->
+
+# <div style="text-align: center;"> Teses e dissertações da área de matemática </div>
+
+## <u>O Pequeno Teorema de Fermat e de Euler para Inteiros Gaussianos</u>: https://sca.profmat-sbm.org.br/profmat_tcc.php?id1=5018&id2=170310341
+
+## <u>Combinatória e os Teoremas de Fermat e Wilson</u>: https://ud10.arapiraca.ufal.br/web/content?model=ud.biblioteca.anexo&field=arquivo&id=5960&download=true&filename_field=name
+
+## <u>Potências e raízes em Aritmética Modular</u>: https://www.math.tecnico.ulisboa.pt/~pmartins/EMF/EMF1804.pdf
+
+## <u>Aritmética Modular e suas Aplicações no Ensino Médio e Superior</u>: https://sca.profmat-sbm.org.br/profmat_tcc.php?id1=6047&id2=171053443
