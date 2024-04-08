@@ -41,3 +41,35 @@
 ## <u>Potências e raízes em Aritmética Modular</u>: https://www.math.tecnico.ulisboa.pt/~pmartins/EMF/EMF1804.pdf
 
 ## <u>Aritmética Modular e suas Aplicações no Ensino Médio e Superior</u>: https://sca.profmat-sbm.org.br/profmat_tcc.php?id1=6047&id2=171053443
+
+## <u>Números perfeitos</u>: https://sca.profmat-sbm.org.br/profmat_tcc.php?id1=6627&id2=171053898
+
+## <u>Números Perfeitos e Primos de Mersenne</u>: https://files.cercomp.ufg.br/weby/up/1170/o/13ro7_provas_artigo5.pdf
+
+## <u>Números perfeitos (Silvio Orleans - UFPB)</u>: https://repositorio.ufpb.br/jspui/bitstream/tede/7522/2/arquivototal.pdf
+
+## <u>
+Very Original Proofs of Two Famous Problems: "Are There Any Odd Perfect Numbers?" (Unsolved until to Date) and “Fermat’s Last Theorem: A New Proof of Theorem (Less than One and a Half Pages) and Its Generalization"</u>: https://www.scirp.org/pdf/apm_2021112215441012.pdf
+
+## <u> </u>: 
+
+## <u> </u>: 
+
+## <u> </u>: 
+
+## <u> </u>: 
+
+## <u> </u>: 
+
+## <u> </u>: 
+
+## <u> </u>: 
+
+## <u> </u>: 
+
+## <u> </u>: 
+
+## <u> </u>: 
+
+
+
