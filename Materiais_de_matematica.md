@@ -12,8 +12,6 @@
 
 ## <u>Aritmética (Programa de Iniciação Cientifica da OBMEP)</u>: https://www.youtube.com/playlist?list=PLrVGp617x0hC8WkPHtM3IjoOiiyJs-hHh
 
-## <u>MA14 U01 - Aritmética: Correção de Questões 1,2,3 e 4</u>: https://www.youtube.com/playlist?list=PLJhKIZym4LNOGwGc64C1Oux4aV3tUDdll
-
 ## <u>Indução Matemática</u>: https://www.youtube.com/playlist?list=PLrVGp617x0hAb3bokPETMb7ymiVW_FtuM
 
 ## <u>Matemática universitária</u>: https://www.youtube.com/playlist?list=PL8w5eaKaOhJRCW-Hytq0JdzTuPD_vyCcL
