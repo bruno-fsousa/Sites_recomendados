@@ -48,8 +48,7 @@
 
 ## <u>Números perfeitos (Silvio Orleans - UFPB)</u>: https://repositorio.ufpb.br/jspui/bitstream/tede/7522/2/arquivototal.pdf
 
-## <u>
-Very Original Proofs of Two Famous Problems: "Are There Any Odd Perfect Numbers?" (Unsolved until to Date) and “Fermat’s Last Theorem: A New Proof of Theorem (Less than One and a Half Pages) and Its Generalization"</u>: https://www.scirp.org/pdf/apm_2021112215441012.pdf
+## <u>Very Original Proofs of Two Famous Problems: "Are There Any Odd Perfect Numbers?" (Unsolved until to Date) and “Fermat’s Last Theorem: A New Proof of Theorem (Less than One and a Half Pages) and Its Generalization"</u>: https://www.scirp.org/pdf/apm_2021112215441012.pdf
 
 ## <u> </u>: 
 
